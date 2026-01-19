@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    // Java formatting
+    "java.format.enabled": true,
+    // Optional: prefer the Eclipse formatter (built-in). To use Google Java Format,
+    // install the extension and set: "java.format.settings.url": "google-java-format"
+    // Clean up legacy C/C++ formatting config
+    "C_Cpp.clang_format_fallbackStyle": "none"
+}

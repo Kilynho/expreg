@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Java (entrada.txt)",
+      "request": "launch",
+      "mainClass": "Main",
+      "args": [
+        "entrada.txt"
+      ],
+      "preLaunchTask": "build java",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Debug Java",
+      "request": "launch",
+      "mainClass": "Main",
+      "args": [
+        "${input:inputFile}"
+      ],
+      "preLaunchTask": "build java",
+      "cwd": "${workspaceFolder}"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "inputFile",
+      "type": "promptString",
+      "description": "Fichero de entrada:",
+      "default": "entrada.txt"
+    }
+  ]
+}

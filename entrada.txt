@@ -1,0 +1,23 @@
+ESTE ES EL PRIMER PÁRRAFO COMPLETAMENTE EN MAYÚSCULAS. DEBERÍA SALIR EN NEGRITA EN HTML. CONTIENE VARIAS FRASES PARA PROBAR LA CAPITALIZACIÓN DESPUÉS DE LOS PUNTOS.
+
+Este es un párrafo normal donde algunas palabras ESTÁN EN MAYÚSCULAS para simular negrita. Por ejemplo, la palabra IMPORTANTE y otra PALABRA deberían destacarse correctamente.
+
+AQUÍ HAY OTRO PÁRRAFO TOTALMENTE EN MAYÚSCULAS. INCLUYE NOMBRES, TÍTULOS Y FECHAS COMO 2025. DEBE SER CONVERTIDO A MINÚSCULAS Y CAPITALIZARSE AL INICIO DE FRASES.
+
+Ahora un párrafo con MAYÚSCULAS mezcladas en medio de la frase: La palabra FUERTE y la palabra CLAVE deberían resaltar, pero el resto del texto se mantiene normal. Además, verificamos la CAPITALIZACIÓN tras signos de interrogación: ¿QUÉ PASA AHORA?
+
+¡ATENCIÓN! ESTE PÁRRAFO COMIENZA CON SIGNO DE EXCLAMACIÓN Y ESTÁ EN MAYÚSCULAS, DEBE CAPITALIZARSE CORRECTAMENTE. También incluye la palabra CRUCIAL en medio del texto.
+
+Un párrafo más para probar la mezcla: algunas palabras IMPORTANTES deben resaltar y otras NO. Incluso podemos incluir FECHAS como 17/11/2025 y siglas como ONU o NASA.
+
+ÚLTIMO PÁRRAFO COMPLETAMENTE EN MAYÚSCULAS. ESTE SIRVE PARA COMPROBAR QUE EL PROGRAMA GENERA EL HTML CON TODAS LAS NEGRITAS CORRECTAMENTE Y RESPETA LA CAPITALIZACIÓN SEGÚN LOS SIGNOS DE PUNTUACIÓN.
+
+AQUÍ COMIENZA UN NUEVO PÁRRAFO EXTENSO CON VARIAS CLÁUSULAS IMPORTANTES. PRIMERA CLÁUSULA: TODOS LOS EMPLEADOS DEBEN RESPETAR LAS NORMAS DE SEGURIDAD INTERNAS. SEGUNDA CLÁUSULA: LOS INFORMES DE ACTIVIDAD DEBEN SER PRESENTADOS ANTES DEL DÍA 30 DE CADA MES. TERCERA CLÁUSULA: CUALQUIER INCIDENCIA DEBE SER REPORTADA INMEDIATAMENTE AL SUPERVISOR DIRECTO.
+
+En este párrafo se mezclan frases normales con partes destacadas en MAYÚSCULAS: La RESPONSABILIDAD del equipo es cumplir los OBJETIVOS establecidos, mientras que las FECHAS IMPORTANTES deben ser respetadas. Además, se incluyen términos legales como CONTRATO y CONFIDENCIALIDAD para probar el resaltado.
+
+OTRO PÁRRAFO ENTERAMENTE EN MAYÚSCULAS. INCLUYE NOMBRES DE PROYECTOS, SIGLAS COMO NASA Y ONU, Y DATOS DE CONTACTO. ESTE TEXTO SIRVE PARA VERIFICAR QUE TODAS LAS PALABRAS EN MAYÚSCULAS SE CONVIERTEN CORRECTAMENTE A NEGRITA Y MINÚSCULAS CON CAPITALIZACIÓN AL INICIO DE FRASES.
+
+Ahora un párrafo largo donde solo algunas palabras se intercalan en MAYÚSCULAS para enfatizar: el PLAN DE ACCIÓN debe ser revisado, la CLÁUSULA DE CONFIDENCIALIDAD cumplida y los INFORMES enviados antes de la fecha límite. Todo lo demás sigue en texto normal, para ver cómo se maneja la mezcla.
+
+ÚLTIMO PÁRRAFO DEL FICHERO, CON VARIAS SECCIONES EN MAYÚSCULAS: REGLAS GENERALES, PROCEDIMIENTOS INTERNOS, Y NORMAS DE SEGURIDAD. Esto permite probar la consistencia del programa con bloques grandes de texto en mayúsculas intercalados entre frases normales.

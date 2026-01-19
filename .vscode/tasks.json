@@ -1,0 +1,46 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build java",
+			"type": "shell",
+			"command": "javac",
+			"args": [
+				"-d",
+				"out",
+				"src/Main.java"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "run java",
+			"type": "shell",
+			"command": "java",
+			"args": [
+				"-cp",
+				"out",
+				"Main",
+				"entrada.txt"
+			],
+			"group": "none",
+			"dependsOn": "build java"
+		},
+		{
+			"label": "run java",
+			"type": "shell",
+			"command": "java",
+			"args": [
+				"-cp",
+				"out",
+				"Main",
+				"entrada.txt"
+			],
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}
